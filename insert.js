@@ -2,7 +2,7 @@ const knex = require('./config/database');
 
 let dados = {
 
-    nome: 'Notebook Dell',
+    nome: 'Notebook Dell3',
     preco: 3850.10
 
 }
